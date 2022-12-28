@@ -1,6 +1,7 @@
 Hey i am yousuf...
-Starting this project on 28th of decemeber 2022.
-to make an tkinter gui to be able to do operations on matrices
+Completed this project on 28th of decemeber 2022.
+to make an tkinter gui to be able to do operations on matrices.
+This is a very basic application so pls
 
 Just copy and run the main.py file on your whatever you run code on.
                                                                         
